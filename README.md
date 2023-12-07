@@ -6,16 +6,18 @@ Key-points to remember in JAVA language. Make it easy to code.
 
 ## Inheritance
 
-> Keyword :: this & super
+> ### (Keyword) this & super
+
 **this** = is a reference to the owner of the object. (Current Class | Active)
+
 **super** = is a reference to the immediate parent class.
 
 
 ## Polymorphism
 
-> Overloading
+### Overloading
 
-> Overriding - Redefining methods of superclass
+### Overriding - Redefining methods of superclass
 
 ## Abstract
 
